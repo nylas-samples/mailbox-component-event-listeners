@@ -35,7 +35,7 @@ export class App extends React.Component {
       <div className="App">
         <h1>Nylas Mailbox</h1>
         <nylas-mailbox
-          id="0b571388-67b2-4aa2-9f03-44f9db7a71c5"
+          id="85ec339e-b150-48c7-b6ea-129f81e205b7"
           header="My Mailbox"
           show_star={true}
           // unread_status="unread"
